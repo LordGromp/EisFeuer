@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+EisFeuer_GameStudio/Saved/Logs/EisFeuer_GameStudio.log
+EisFeuer_GameStudio/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+EisFeuer_GameStudio/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+EisFeuer_GameStudio/Config/DefaultEngine.ini
